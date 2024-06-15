@@ -66,6 +66,16 @@ body {
     border-radius: 5px;
 }
 
+.project-image-small {
+    display: block;
+    margin: 20px auto;
+
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #00FF00;
+    border-radius: 5px;
+}
+
 .content {
     padding: 20px;
     text-align: left;
