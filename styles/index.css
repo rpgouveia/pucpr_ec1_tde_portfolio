@@ -66,6 +66,16 @@ body {
     border-radius: 5px;
 }
 
+.project-image-medium {
+    display: block;
+    margin: 20px auto;
+
+    width: 100%;
+    max-width: 450px;
+    border: 1px solid #00FF00;
+    border-radius: 5px;
+}
+
 .project-image-small {
     display: block;
     margin: 20px auto;
