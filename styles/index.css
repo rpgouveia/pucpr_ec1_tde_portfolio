@@ -56,12 +56,27 @@ body {
     font-weight: bold;
 }
 
+.project-image {
+    display: block;
+    margin: 20px auto;
+
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid #00FF00;
+    border-radius: 5px;
+}
+
 .content {
     padding: 20px;
+    text-align: left;
 }
 
 .content p, .content ul {
     margin: 10px 0;
+}
+
+.content p {
+    text-align: justify;
 }
 
 .content ul {
